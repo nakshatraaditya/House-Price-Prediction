@@ -1,8 +1,3 @@
-# House-Price-Prediction
-Here's a description you can use for your GitHub project on predicting house prices using machine learning:
-
----
-
 # House Price Prediction using Machine Learning
 
 This project aims to develop a machine learning model that predicts house prices based on various features such as location, square footage, number of bedrooms, bathrooms, and more. The project is built using Python and popular data science libraries including Pandas, Scikit-learn, and Matplotlib.
