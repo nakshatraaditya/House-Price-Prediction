@@ -13,9 +13,8 @@ This project aims to develop a machine learning model that predicts house prices
 - **Model Selection:** Implementing and comparing different regression models such as Linear Regression, Decision Trees, and Random Forests to identify the best-performing model.
 - **Hyperparameter Tuning:** Optimizing the model's performance by fine-tuning hyperparameters using techniques like GridSearchCV or RandomizedSearchCV.
 - **Model Evaluation:** Assessing model accuracy using metrics such as Mean Squared Error (MSE), R-squared, and Cross-Validation.
-- **Deployment:** Providing a simple user interface to predict house prices for new data inputs.
 
 ## Technologies Used
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebook, Git
+- **Tools:** Google Colab
